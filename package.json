@@ -1,0 +1,14 @@
+{
+  "name": "@adeo/filter-nested-list",
+  "version": "1.0.0",
+  "author": "Mick Prev <dev@mickprev.fr>",
+  "description": "One of the best javascript script to filter a nested list.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
